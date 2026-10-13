@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# Protfólio 2023
+# Protfólio
 
 Este projeto é um site de portfólio criado por Matheus Batista.
 
@@ -27,4 +27,4 @@ Este site serve como um showcase para meus trabalhos e projetos. Contém seçõe
 
 ## Uso
 
-Para visualizar o site, basta visitar [Portfólio 2023](https://portfolio-2023-matheus-baraujo.vercel.app/).
+Para visualizar o site, basta visitar [Portfólio](https://matheus-baraujo.github.io/portfolio/).

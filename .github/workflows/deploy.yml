@@ -1,4 +1,5 @@
-name: Deploy Next.js site to Pages
+name: Deploy Next.js site
+run-name: Deploy to ${{ inputs.deploy_target }} by @${{ github.actor }}
 
 on:
   push:
